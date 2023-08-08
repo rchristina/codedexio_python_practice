@@ -1,1 +1,1 @@
-Python variables practive from https://www.codedex.io/
+Python variables practice from https://www.codedex.io/
